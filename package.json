@@ -1,8 +1,8 @@
 {
   "bundleDependencies": false,
   "dependencies": {
-    "aws-sdk": "^2.497.0",
-    "sharp": "^0.22.1"
+    "aws-sdk": "^2.573.0",
+    "sharp": "^0.23.2"
   },
   "deprecated": false,
   "description": "S3 provider for strapi upload with resize capabilities",
@@ -10,8 +10,8 @@
     "lib": "lib"
   },
   "engines": {
-    "node": ">= 9.0.0",
-    "npm": ">= 5.3.0"
+    "node": ">= 10.0.0",
+    "npm": ">= 6.0.0"
   },
   "license": "MIT",
   "homepage": "https://github.com/WeFlyCheap/strapi-provider-upload-aws-s3-resize",
